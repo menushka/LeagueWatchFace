@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="background2">#000088</color>
+    <color name="analog_hands">#cccccc</color>
+
+    <color name="league_blue">#113850</color>
+    <color name="league_darkblue">#0D2A3B</color>
+    <color name="league_gold">#B69E64</color>
+    <color name="league_darkgold">#947B3D</color>
+
+    <color name="league_red">#ec2b2b</color>
+    <color name="league_white">#f3f3f3</color>
+    <color name="league_gray">#888888</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="analog_hand_stroke">3dp</dimen>
+
+    <dimen name="league_seconds_stroke">1dp</dimen>
+    <dimen name="league_minutes_stroke">2dp</dimen>
+    <dimen name="league_hours_stroke">3dp</dimen>
+    <dimen name="league_hours_tick">3dp</dimen>
+</resources>
